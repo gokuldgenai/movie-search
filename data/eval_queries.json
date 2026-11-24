@@ -1,0 +1,229 @@
+[
+  {
+    "query": "an elderly widower travels to South America in his floating house",
+    "relevant": [
+      "m023"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a thief who plants ideas inside people's sleep",
+    "relevant": [
+      "m006"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "an astronaut stuck alone on another planet has to grow his own food",
+    "relevant": [
+      "m005"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a scientist learns to talk with aliens through their strange language",
+    "relevant": [
+      "m003"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "people discover their whole world is a fake computer program",
+    "relevant": [
+      "m002"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a young girl must work for spirits to rescue her parents",
+    "relevant": [
+      "m021"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "playthings that come alive and get jealous of a new arrival",
+    "relevant": [
+      "m022"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a worried father fish searches the sea for his missing son",
+    "relevant": [
+      "m027"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "the feelings inside a child's head go on an adventure",
+    "relevant": [
+      "m024"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a family that cannot make any noise or the creatures will find them",
+    "relevant": [
+      "m016"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a creepy clown that terrorises a group of children",
+    "relevant": [
+      "m019"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a writer slowly goes insane while looking after an empty hotel in winter",
+    "relevant": [
+      "m020"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a man wrongly jailed for decades who never loses hope",
+    "relevant": [
+      "m043"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a drummer pushed to breaking point by a cruel teacher",
+    "relevant": [
+      "m045"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a dad coaches his daughters to become champion wrestlers",
+    "relevant": [
+      "m049"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "childhood sweethearts meet again at a school reunion after many years",
+    "relevant": [
+      "m050"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a climber scales an enormous cliff with no ropes",
+    "relevant": [
+      "m062"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a poor family secretly gets jobs with a wealthy household",
+    "relevant": [
+      "m035"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a detective questions a dead author's greedy relatives",
+    "relevant": [
+      "m034"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "a man forced to live the same day again and again",
+    "relevant": [
+      "m032"
+    ],
+    "type": "plot"
+  },
+  {
+    "query": "supernatural horror about demons, ghosts or a cursed family",
+    "relevant": [
+      "m017",
+      "m018",
+      "m020"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "gentle cosy animated films for small children",
+    "relevant": [
+      "m022",
+      "m027",
+      "m028"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "heartwarming feel-good comedy that leaves you smiling",
+    "relevant": [
+      "m013",
+      "m032",
+      "m033"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "astronauts fighting to survive in space",
+    "relevant": [
+      "m001",
+      "m005",
+      "m008"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "big Indian epic with spectacular action",
+    "relevant": [
+      "m056",
+      "m057"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "true stories filmed in real life, not fiction",
+    "relevant": [
+      "m062",
+      "m063",
+      "m064"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "a romance that will make you cry",
+    "relevant": [
+      "m010",
+      "m050",
+      "m009"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "dark crime thrillers about hunting a serial killer",
+    "relevant": [
+      "m036",
+      "m038"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "inspiring stories about chasing your dream against the odds",
+    "relevant": [
+      "m046",
+      "m049",
+      "m009"
+    ],
+    "type": "mood"
+  },
+  {
+    "query": "raunchy comedy about a wild night out with friends",
+    "relevant": [
+      "m030",
+      "m031"
+    ],
+    "type": "mood"
+  }
+]

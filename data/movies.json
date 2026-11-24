@@ -1,0 +1,893 @@
+[
+  {
+    "id": "m001",
+    "title": "Interstellar",
+    "year": 2014,
+    "runtime_min": 169,
+    "rating": 8.7,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "epic, emotional, thought-provoking",
+    "description": "A former pilot leaves his children behind to travel through a wormhole in search of a new home for humanity, while time slips away differently for him than for the family waiting on a dying Earth."
+  },
+  {
+    "id": "m002",
+    "title": "The Matrix",
+    "year": 1999,
+    "runtime_min": 136,
+    "rating": 8.7,
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "language": "English",
+    "mood": "mind-bending, thrilling, stylish",
+    "description": "An office worker who hacks at night discovers that everyday reality is a computer simulation built by machines, and joins a band of rebels who can bend its rules."
+  },
+  {
+    "id": "m003",
+    "title": "Arrival",
+    "year": 2016,
+    "runtime_min": 116,
+    "rating": 7.9,
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "quiet, cerebral, moving",
+    "description": "A linguist is asked to communicate with mysterious visitors whose ships hover over Earth, and learning their language changes how she experiences her own memories."
+  },
+  {
+    "id": "m004",
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "runtime_min": 164,
+    "rating": 8,
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "slow-burn, atmospheric, melancholic",
+    "description": "In a rain-soaked future city, an artificial officer who hunts rogue androids uncovers a secret that could upend the line between humans and the beings they built."
+  },
+  {
+    "id": "m005",
+    "title": "The Martian",
+    "year": 2015,
+    "runtime_min": 144,
+    "rating": 8,
+    "genres": [
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "funny, hopeful, survival",
+    "description": "An astronaut stranded alone on Mars after his crew believes him dead uses science, potatoes and a sense of humour to stay alive until rescue."
+  },
+  {
+    "id": "m006",
+    "title": "Inception",
+    "year": 2010,
+    "runtime_min": 148,
+    "rating": 8.8,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "mind-bending, intense, clever",
+    "description": "A thief who steals secrets from inside people's dreams takes one last job: planting an idea in a target's mind, layers of dreams deep."
+  },
+  {
+    "id": "m007",
+    "title": "Ex Machina",
+    "year": 2014,
+    "runtime_min": 108,
+    "rating": 7.7,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "tense, unsettling, intimate",
+    "description": "A young programmer is invited to a remote estate to test whether a humanoid robot built by his reclusive boss is truly conscious, and soon cannot tell who is testing whom."
+  },
+  {
+    "id": "m008",
+    "title": "Gravity",
+    "year": 2013,
+    "runtime_min": 91,
+    "rating": 7.7,
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "tense, breathtaking, survival",
+    "description": "After debris destroys their shuttle, an engineer drifts in orbit and must find a way back to Earth with oxygen running out."
+  },
+  {
+    "id": "m009",
+    "title": "La La Land",
+    "year": 2016,
+    "runtime_min": 128,
+    "rating": 8,
+    "genres": [
+      "Romance",
+      "Musical",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "dreamy, bittersweet, colourful",
+    "description": "A jazz pianist and an aspiring actress fall in love in Los Angeles while chasing ambitions that may pull them apart, told through song and dance."
+  },
+  {
+    "id": "m010",
+    "title": "The Notebook",
+    "year": 2004,
+    "runtime_min": 123,
+    "rating": 7.8,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "tearjerker, romantic, nostalgic",
+    "description": "An elderly man reads a love story from a worn notebook to a woman in a care home: the tale of a summer romance between a poor young man and a wealthy girl."
+  },
+  {
+    "id": "m011",
+    "title": "Before Sunrise",
+    "year": 1995,
+    "runtime_min": 101,
+    "rating": 8.1,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "talky, intimate, wistful",
+    "description": "Two strangers meet on a train across Europe and spend a single night walking around Vienna, talking about life and love before they must part at dawn."
+  },
+  {
+    "id": "m012",
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "runtime_min": 129,
+    "rating": 7.8,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "witty, romantic, period",
+    "description": "In Georgian England, a sharp-tongued young woman clashes with a proud, wealthy gentleman, and both must overcome their first impressions."
+  },
+  {
+    "id": "m013",
+    "title": "About Time",
+    "year": 2013,
+    "runtime_min": 123,
+    "rating": 7.8,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fantasy"
+    ],
+    "language": "English",
+    "mood": "feel-good, warm, heartfelt",
+    "description": "A young man learns the men in his family can travel back in time, and uses the gift to find love, then discovers what truly matters is ordinary days with family."
+  },
+  {
+    "id": "m014",
+    "title": "Crazy Rich Asians",
+    "year": 2018,
+    "runtime_min": 120,
+    "rating": 6.9,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "language": "English",
+    "mood": "glamorous, funny, light",
+    "description": "A New York economics professor travels to Singapore with her boyfriend and discovers his family is extraordinarily wealthy, and his mother does not approve of her."
+  },
+  {
+    "id": "m015",
+    "title": "Get Out",
+    "year": 2017,
+    "runtime_min": 104,
+    "rating": 7.8,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "unsettling, satirical, tense",
+    "description": "A young Black man visits his white girlfriend's family for a weekend, and their overly welcoming behaviour hides something sinister."
+  },
+  {
+    "id": "m016",
+    "title": "A Quiet Place",
+    "year": 2018,
+    "runtime_min": 90,
+    "rating": 7.5,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "language": "English",
+    "mood": "tense, silent, family",
+    "description": "A family survives on a farm in total silence, because the creatures that have wiped out most of humanity hunt by sound."
+  },
+  {
+    "id": "m017",
+    "title": "Hereditary",
+    "year": 2018,
+    "runtime_min": 127,
+    "rating": 7.3,
+    "genres": [
+      "Horror",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "disturbing, grief, dread",
+    "description": "After the death of a secretive grandmother, a family's grief curdles into terrifying discoveries about their ancestry."
+  },
+  {
+    "id": "m018",
+    "title": "The Conjuring",
+    "year": 2013,
+    "runtime_min": 112,
+    "rating": 7.5,
+    "genres": [
+      "Horror"
+    ],
+    "language": "English",
+    "mood": "scary, supernatural, classic",
+    "description": "Paranormal investigators help a family terrorised by a dark presence in their isolated farmhouse in 1970s Rhode Island."
+  },
+  {
+    "id": "m019",
+    "title": "It",
+    "year": 2017,
+    "runtime_min": 135,
+    "rating": 7.3,
+    "genres": [
+      "Horror"
+    ],
+    "language": "English",
+    "mood": "scary, coming-of-age, creepy",
+    "description": "A group of misfit kids in a small town band together to fight a shape-shifting monster that most often appears as a clown and feeds on fear."
+  },
+  {
+    "id": "m020",
+    "title": "The Shining",
+    "year": 1980,
+    "runtime_min": 146,
+    "rating": 8.4,
+    "genres": [
+      "Horror"
+    ],
+    "language": "English",
+    "mood": "eerie, psychological, slow-burn",
+    "description": "A struggling writer takes a winter job caring for an empty mountain hotel with his wife and son, and the isolation and the hotel itself slowly drive him to madness."
+  },
+  {
+    "id": "m021",
+    "title": "Spirited Away",
+    "year": 2001,
+    "runtime_min": 125,
+    "rating": 8.6,
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "language": "Japanese",
+    "mood": "magical, whimsical, coming-of-age",
+    "description": "A sullen ten-year-old girl wanders into a world of spirits, where she must work in a bathhouse for gods to free her parents, who have been turned into pigs."
+  },
+  {
+    "id": "m022",
+    "title": "Toy Story",
+    "year": 1995,
+    "runtime_min": 81,
+    "rating": 8.3,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "language": "English",
+    "mood": "funny, family, nostalgic",
+    "description": "A pull-string cowboy doll feels threatened when a shiny new space ranger becomes his boy's favourite toy, and the two rivals end up lost together."
+  },
+  {
+    "id": "m023",
+    "title": "Up",
+    "year": 2009,
+    "runtime_min": 96,
+    "rating": 8.3,
+    "genres": [
+      "Animation",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "heartwarming, adventurous, tearjerker",
+    "description": "A grumpy widower ties thousands of balloons to his house to fly to South America, not realising an eager young scout is stuck on his porch."
+  },
+  {
+    "id": "m024",
+    "title": "Inside Out",
+    "year": 2015,
+    "runtime_min": 95,
+    "rating": 8.1,
+    "genres": [
+      "Animation",
+      "Comedy"
+    ],
+    "language": "English",
+    "mood": "clever, emotional, family",
+    "description": "Inside the mind of an eleven-year-old girl who has just moved cities, her personified emotions Joy and Sadness get lost and must find their way back."
+  },
+  {
+    "id": "m025",
+    "title": "Coco",
+    "year": 2017,
+    "runtime_min": 105,
+    "rating": 8.4,
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "language": "English",
+    "mood": "colourful, emotional, family",
+    "description": "A boy who dreams of becoming a musician despite his family's ban on music crosses into the Land of the Dead on the Day of the Dead and uncovers his family history."
+  },
+  {
+    "id": "m026",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "runtime_min": 117,
+    "rating": 8.4,
+    "genres": [
+      "Animation",
+      "Action"
+    ],
+    "language": "English",
+    "mood": "stylish, energetic, fun",
+    "description": "A Brooklyn teenager gains spider powers and teams up with spider-heroes from other dimensions, in a film that looks like a comic book come alive."
+  },
+  {
+    "id": "m027",
+    "title": "Finding Nemo",
+    "year": 2003,
+    "runtime_min": 100,
+    "rating": 8.2,
+    "genres": [
+      "Animation",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "funny, family, ocean",
+    "description": "An overprotective clownfish crosses the ocean with a forgetful blue tang to rescue his son, who was captured and placed in a dentist's fish tank."
+  },
+  {
+    "id": "m028",
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "runtime_min": 86,
+    "rating": 8.1,
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "language": "Japanese",
+    "mood": "gentle, cosy, nostalgic",
+    "description": "Two young sisters move to the countryside to be near their sick mother and befriend gentle forest spirits, including a huge furry creature."
+  },
+  {
+    "id": "m029",
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "runtime_min": 99,
+    "rating": 8.1,
+    "genres": [
+      "Comedy",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "quirky, stylish, witty",
+    "description": "A fussy concierge at a famous European hotel and his loyal lobby boy are caught up in the theft of a priceless painting and a fight over a family fortune."
+  },
+  {
+    "id": "m030",
+    "title": "Superbad",
+    "year": 2007,
+    "runtime_min": 113,
+    "rating": 7.6,
+    "genres": [
+      "Comedy"
+    ],
+    "language": "English",
+    "mood": "raunchy, silly, coming-of-age",
+    "description": "Two awkward high-school best friends try to buy alcohol for a party in a last-ditch attempt to impress girls before they leave for different colleges."
+  },
+  {
+    "id": "m031",
+    "title": "The Hangover",
+    "year": 2009,
+    "runtime_min": 100,
+    "rating": 7.7,
+    "genres": [
+      "Comedy"
+    ],
+    "language": "English",
+    "mood": "raunchy, chaotic, party",
+    "description": "Three friends wake up in a trashed Las Vegas hotel suite after a bachelor party with no memory of the night, and the groom is missing."
+  },
+  {
+    "id": "m032",
+    "title": "Groundhog Day",
+    "year": 1993,
+    "runtime_min": 101,
+    "rating": 8,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "language": "English",
+    "mood": "feel-good, clever, funny",
+    "description": "A cynical TV weatherman covering a small-town festival is forced to relive the same day over and over until he becomes a better person."
+  },
+  {
+    "id": "m033",
+    "title": "Paddington 2",
+    "year": 2017,
+    "runtime_min": 103,
+    "rating": 7.8,
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "language": "English",
+    "mood": "feel-good, charming, cosy",
+    "description": "A polite young bear from Peru takes odd jobs to buy a special gift for his aunt, but is wrongly sent to prison when the gift is stolen."
+  },
+  {
+    "id": "m034",
+    "title": "Knives Out",
+    "year": 2019,
+    "runtime_min": 130,
+    "rating": 7.9,
+    "genres": [
+      "Mystery",
+      "Comedy",
+      "Crime"
+    ],
+    "language": "English",
+    "mood": "witty, twisty, fun",
+    "description": "When a wealthy crime novelist is found dead after his birthday party, an eccentric detective investigates his scheming family."
+  },
+  {
+    "id": "m035",
+    "title": "Parasite",
+    "year": 2019,
+    "runtime_min": 132,
+    "rating": 8.5,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "language": "Korean",
+    "mood": "dark, satirical, twisty",
+    "description": "A poor family schemes its way into working for a rich household one by one, until an unexpected discovery turns their plan upside down."
+  },
+  {
+    "id": "m036",
+    "title": "Se7en",
+    "year": 1995,
+    "runtime_min": 127,
+    "rating": 8.6,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "dark, grim, suspenseful",
+    "description": "Two detectives, one weeks from retirement, hunt a serial killer who stages each murder around one of the seven deadly sins."
+  },
+  {
+    "id": "m037",
+    "title": "Gone Girl",
+    "year": 2014,
+    "runtime_min": 149,
+    "rating": 8.1,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "language": "English",
+    "mood": "twisty, dark, suspenseful",
+    "description": "When a woman disappears on her fifth wedding anniversary, media attention and police suspicion fall on her husband, but nothing is what it seems."
+  },
+  {
+    "id": "m038",
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "runtime_min": 118,
+    "rating": 8.6,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "language": "English",
+    "mood": "chilling, psychological, suspenseful",
+    "description": "A young FBI trainee seeks help from an imprisoned cannibal psychiatrist to catch another serial killer who is still at large."
+  },
+  {
+    "id": "m039",
+    "title": "Prisoners",
+    "year": 2013,
+    "runtime_min": 153,
+    "rating": 8.1,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "language": "English",
+    "mood": "dark, tense, moral",
+    "description": "When two young girls go missing on Thanksgiving, a desperate father takes matters into his own hands while a detective follows the official investigation."
+  },
+  {
+    "id": "m040",
+    "title": "The Dark Knight",
+    "year": 2008,
+    "runtime_min": 152,
+    "rating": 9,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "language": "English",
+    "mood": "intense, dark, epic",
+    "description": "A masked vigilante faces an anarchic criminal mastermind who wants to plunge a city into chaos and test how far its heroes will go."
+  },
+  {
+    "id": "m041",
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "runtime_min": 154,
+    "rating": 8.9,
+    "genres": [
+      "Crime"
+    ],
+    "language": "English",
+    "mood": "stylish, violent, darkly funny",
+    "description": "Interlocking stories of hitmen, a boxer, a gangster's wife and small-time robbers in Los Angeles, told out of order with sharp dialogue."
+  },
+  {
+    "id": "m042",
+    "title": "The Godfather",
+    "year": 1972,
+    "runtime_min": 175,
+    "rating": 9.2,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "epic, dark, classic",
+    "description": "The ageing head of a New York crime family hands control to his reluctant youngest son, who is gradually drawn into the family business."
+  },
+  {
+    "id": "m043",
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "runtime_min": 142,
+    "rating": 9.3,
+    "genres": [
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "uplifting, hopeful, friendship",
+    "description": "A banker sentenced to life in prison for a murder he did not commit forms a lasting friendship with a fellow inmate and holds on to hope over decades."
+  },
+  {
+    "id": "m044",
+    "title": "Forrest Gump",
+    "year": 1994,
+    "runtime_min": 142,
+    "rating": 8.8,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "language": "English",
+    "mood": "heartwarming, nostalgic, uplifting",
+    "description": "A kind man with a simple outlook stumbles through decades of American history while never giving up on his childhood sweetheart."
+  },
+  {
+    "id": "m045",
+    "title": "Whiplash",
+    "year": 2014,
+    "runtime_min": 106,
+    "rating": 8.5,
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "language": "English",
+    "mood": "intense, gripping, ambitious",
+    "description": "A young jazz drummer at an elite music school is pushed to his limits by a ruthless, abusive instructor."
+  },
+  {
+    "id": "m046",
+    "title": "The Pursuit of Happyness",
+    "year": 2006,
+    "runtime_min": 117,
+    "rating": 8,
+    "genres": [
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "inspiring, emotional, struggle",
+    "description": "A struggling salesman and his young son face homelessness while he competes for an unpaid internship at a stockbroking firm."
+  },
+  {
+    "id": "m047",
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "runtime_min": 126,
+    "rating": 8.3,
+    "genres": [
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "heartfelt, thoughtful, friendship",
+    "description": "A janitor at a top university is secretly a maths genius, and a therapist helps him confront his past and decide what to do with his life."
+  },
+  {
+    "id": "m048",
+    "title": "3 Idiots",
+    "year": 2009,
+    "runtime_min": 170,
+    "rating": 8.4,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "mood": "funny, inspiring, friendship",
+    "description": "Two friends search for their long-lost college companion, recalling how he challenged a rigid engineering college that valued marks over learning."
+  },
+  {
+    "id": "m049",
+    "title": "Dangal",
+    "year": 2016,
+    "runtime_min": 161,
+    "rating": 8.3,
+    "genres": [
+      "Drama",
+      "Sport"
+    ],
+    "language": "Hindi",
+    "mood": "inspiring, emotional, sports",
+    "description": "A former wrestler trains his daughters to become world-class wrestlers, defying village traditions about what girls should do."
+  },
+  {
+    "id": "m050",
+    "title": "96",
+    "year": 2018,
+    "runtime_min": 158,
+    "rating": 8.5,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "language": "Tamil",
+    "mood": "nostalgic, bittersweet, tender",
+    "description": "Two school sweethearts who drifted apart meet again at a class reunion twenty-two years later and spend one night revisiting what might have been."
+  },
+  {
+    "id": "m051",
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "runtime_min": 120,
+    "rating": 8.1,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "explosive, relentless, spectacular",
+    "description": "In a desert wasteland, a rebel warrior and a drifter flee a tyrant across the sand in a war rig, chased by an army of vehicles."
+  },
+  {
+    "id": "m052",
+    "title": "John Wick",
+    "year": 2014,
+    "runtime_min": 101,
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "English",
+    "mood": "stylish, violent, revenge",
+    "description": "A retired hitman returns to the criminal underworld for revenge after gangsters kill the puppy left to him by his late wife."
+  },
+  {
+    "id": "m053",
+    "title": "Top Gun: Maverick",
+    "year": 2022,
+    "runtime_min": 130,
+    "rating": 8.2,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "thrilling, crowd-pleasing, aerial",
+    "description": "A veteran navy test pilot returns to train a group of young graduates for a dangerous mission, including the son of his late best friend."
+  },
+  {
+    "id": "m054",
+    "title": "Gladiator",
+    "year": 2000,
+    "runtime_min": 155,
+    "rating": 8.5,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "English",
+    "mood": "epic, revenge, historical",
+    "description": "A Roman general betrayed by the emperor's son is sold into slavery and fights his way through the arena to seek revenge."
+  },
+  {
+    "id": "m055",
+    "title": "Raiders of the Lost Ark",
+    "year": 1981,
+    "runtime_min": 115,
+    "rating": 8.4,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "adventurous, fun, classic",
+    "description": "An archaeologist and adventurer races against the Nazis to find a powerful ancient artefact, dodging traps, snakes and rolling boulders."
+  },
+  {
+    "id": "m056",
+    "title": "Baahubali: The Beginning",
+    "year": 2015,
+    "runtime_min": 159,
+    "rating": 8,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "language": "Telugu",
+    "mood": "epic, spectacular, mythic",
+    "description": "A young man raised in a village below a giant waterfall climbs it and discovers his royal heritage in a kingdom ruled by a tyrant."
+  },
+  {
+    "id": "m057",
+    "title": "RRR",
+    "year": 2022,
+    "runtime_min": 187,
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "Telugu",
+    "mood": "explosive, larger-than-life, friendship",
+    "description": "In 1920s colonial India, two revolutionaries on opposite sides form a powerful friendship while fighting British rule."
+  },
+  {
+    "id": "m058",
+    "title": "Vikram",
+    "year": 2022,
+    "runtime_min": 174,
+    "rating": 8.3,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Tamil",
+    "mood": "gritty, intense, mass",
+    "description": "A special agent investigates a series of masked murders and uncovers a sprawling drug network and a team of hidden operatives."
+  },
+  {
+    "id": "m059",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "runtime_min": 178,
+    "rating": 8.9,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "English",
+    "mood": "epic, adventurous, mythic",
+    "description": "A young hobbit inherits a powerful ring and sets out with a fellowship of companions to destroy it before a dark lord can reclaim it."
+  },
+  {
+    "id": "m060",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "runtime_min": 152,
+    "rating": 7.7,
+    "genres": [
+      "Fantasy",
+      "Family"
+    ],
+    "language": "English",
+    "mood": "magical, cosy, adventurous",
+    "description": "An orphaned boy learns on his eleventh birthday that he is a wizard and begins his first year at a school of witchcraft and wizardry."
+  },
+  {
+    "id": "m061",
+    "title": "Pan's Labyrinth",
+    "year": 2006,
+    "runtime_min": 118,
+    "rating": 8.2,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "language": "Spanish",
+    "mood": "dark, haunting, fairy-tale",
+    "description": "In post-civil-war Spain, a girl escapes her cruel stepfather's world into a mysterious labyrinth where a faun gives her dangerous tasks."
+  },
+  {
+    "id": "m062",
+    "title": "Free Solo",
+    "year": 2018,
+    "runtime_min": 100,
+    "rating": 8.1,
+    "genres": [
+      "Documentary",
+      "Sport"
+    ],
+    "language": "English",
+    "mood": "nail-biting, inspiring, real",
+    "description": "A rock climber attempts to scale a 3,000-foot granite wall in Yosemite with no ropes or safety gear."
+  },
+  {
+    "id": "m063",
+    "title": "My Octopus Teacher",
+    "year": 2020,
+    "runtime_min": 85,
+    "rating": 8.1,
+    "genres": [
+      "Documentary"
+    ],
+    "language": "English",
+    "mood": "gentle, moving, nature",
+    "description": "A filmmaker going through a hard time spends a year diving in a South African kelp forest and forms an unusual bond with an octopus."
+  },
+  {
+    "id": "m064",
+    "title": "Jiro Dreams of Sushi",
+    "year": 2011,
+    "runtime_min": 81,
+    "rating": 7.8,
+    "genres": [
+      "Documentary"
+    ],
+    "language": "Japanese",
+    "mood": "calm, inspiring, food",
+    "description": "An elderly sushi master who runs a tiny Tokyo restaurant devotes his life to perfecting his craft while his son waits to succeed him."
+  }
+]
